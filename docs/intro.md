@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+title: Introduction
 ---
 
-# Instructions
+# Introduction to the system
 
 Let's discover **PurpleApp in less than 15 minutes**.
 

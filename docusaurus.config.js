@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'PurpleApp',
   tagline: 'Register work of many people in many places',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/purple_favicon.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
