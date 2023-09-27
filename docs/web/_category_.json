@@ -1,0 +1,10 @@
+{
+  "label": "Documentation for web",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn the most important PurpleApp web usage and administration. 
+    The following pages contain descriptions of all web system screens in the order in the main menu.
+    Please note that depending on your role and permissions, not all screens may be visible to you."
+  }
+}
