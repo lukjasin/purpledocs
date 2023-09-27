@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PurpleApp Docs',
-  tagline: 'Get to know better PurpleApp web and mobile',
+  title: 'PurpleApp',
+  tagline: 'Register work of many people in many places',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
