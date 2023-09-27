@@ -14,12 +14,13 @@ const config = {
   url: 'https://your-docusaurus-test-site.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
+  
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Porta Capena', // Usually your GitHub org/user name.
+  projectName: 'PurpleApp documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -38,7 +39,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -66,18 +66,18 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'PurpleApp Documentation',
+        title: 'PurpleApp',
         logo: {
           alt: 'PurpleApp Logo',
           src: 'img/logo.svg',
         },
         items: [
-           /* {
+           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Release notes',
-          },  */
+            label: 'Documentation',
+          }, 
           // {to: '/blog', label: 'Blog', position: 'left'},
           /* {
             href: 'http://portacapena.com',
