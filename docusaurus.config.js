@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'PurpleApp Docs',
+  tagline: 'Get to know better PurpleApp web and mobile',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -42,8 +42,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+         // editUrl:
+          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: false,
         /* blog: {
@@ -105,6 +105,10 @@ const config = {
                 label: 'Porta Cepena',
                 href: 'http://portacapena.com',
               },
+              {
+                label: 'Enetic',
+                href: 'http://enetic.eu',
+              },
             ],
           },
           {
@@ -121,7 +125,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Porta Capena`,
       },
       prism: {
         theme: lightCodeTheme,

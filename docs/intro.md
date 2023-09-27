@@ -3,11 +3,11 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Instructions
 
 Let's discover **PurpleApp in less than 15 minutes**.
 
-DThis focumentation contains all information how to use web and mobile parts of the system.
+This focumentation contains all information how to use web and mobile parts of the system.
 
 ## Getting Started
 
@@ -48,3 +48,8 @@ The `cd` command changes the directory you're working with. In order to work wit
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+
+
+## System supplier
+
+The software developer is Porta Capena.
