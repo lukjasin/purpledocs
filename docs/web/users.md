@@ -7,7 +7,7 @@ title: Users
 
 The Users screen consists of two parts. On the left there is a list of all users registered in the system. On the right side, details of the selected user are displayed.
 
-![Users](./img/users.png)
+![Users](./img/users_2.png)
 
 
 ### Users list
@@ -26,8 +26,8 @@ At the top left of the right panel there is the name of the selected user. Next 
 Data fields:
 **Username** – login with which the user will log in to the system/mobile app (preferably short, spaces are allowed).
 **Email** – user's email.
-**Contact name** – user's full/real name.
-**Contact phone** – user's phone number.
+**Full name** – user's full/real name.
+**User phone** – user's phone number.
 
 **Select roles** - user role and permissions in the system. Multi-select is possible, so web user can also have access and log in the mobile app. Possible options:
 

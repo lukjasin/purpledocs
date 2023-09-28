@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-title: Settings
+sidebar_position: 3
+title: Location settings
 ---
 
 # Location settings
@@ -13,7 +13,14 @@ After starting the PurpleApp and logging in to the system, info will appear abou
 
 Access rights must be set to **Always Allowed**.
 
+![Background location](./img/background-location.jpg)
+
 Device location is recorded only when work time registration is turned on. When the application is running, the user is logged in, but the work is not started in the app, only whether the device is in the area of ​​assigned installations is checked, and this data is not recorded.
+
+
+:::info
+Once the application gains access to location services, it will no longer ask for it the next time you launch it.
+:::
 
 ## Location tracking
 
