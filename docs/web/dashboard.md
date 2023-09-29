@@ -42,7 +42,7 @@ There is a name of selected user and current installation which is a link to the
 
 The red Finish work button allows the user to force end installers work, e.g. if the installer forgot to do it in the mobile application.
 
-
+### Work chart
 The chart shows the presence of the installer in the location from the moment he started working there. The upper bar shows the presence in the geofencing area, the lower one shows the duration of a given status.
 
 Top color bar:
@@ -53,4 +53,11 @@ Bottom color bar:
 - blue - work
 - yellow - pause
 
-There is a zoom bar below the chart. Operating the bar can increase the detail of the chart and enable more precise determination of short activities in a workday usually lasting several hours. This is done by defining the period that will be displayed on the chart. Moving the left side of the bar determines the time from which the chart should start, and the right side is responsible for the end of the chart. Additionally, adjusted bar can be moved throughout the entire range of recorded working time.
+### Zooming
+There is a zoom bar below the chart. Operating the bar can increase the detail of the chart and enable more precise determination of short activities in a workday usually lasting several hours. This is done by defining the period that will be displayed on the chart. 
+
+Moving the left side handle of the bar determines the time from which the chart should start, and the right side handle is responsible for the end of the chart. 
+
+Another zooming method is to select part of the bar (by drag and drop) in its lower part when cursor changes into cross.  
+
+Additionally, adjusted bar can be moved throughout the entire range of recorded working time by holding and dragging by its top part.

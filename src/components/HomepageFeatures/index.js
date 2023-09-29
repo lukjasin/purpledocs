@@ -4,33 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'iOS and Android ready',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Record working time, location and various types of activities no matter what devices your employees use.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Web solution',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Plan, manage and monitor work and resources in a flexible web environment no matter where you are.
       </>
     ),
   },
   
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Integrated with Odoo',
+    Svg: require('@site/static/img/odoo-vector-logo.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        You can issue bills for your employees. They can relax after work, not deal with papers.
       </>
     ),
   },
