@@ -1,7 +1,3 @@
----
-title: Privacy policy for PurpleApp
----
-
 # Privacy Policy for PurpleApp
 
 _Last update: 05.03.2024_
