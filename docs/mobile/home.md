@@ -1,8 +1,3 @@
----
-sidebar_position: 4
-title: Main screen
----
-
 # Main screen
 
 After successful login, the main application screen will be displayed. An example from iOS is below.

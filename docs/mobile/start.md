@@ -1,8 +1,3 @@
----
-sidebar_position: 2
-title: Launching the app
----
-
 # Launching the app
 
 After starting the application, the login screen will appear. 

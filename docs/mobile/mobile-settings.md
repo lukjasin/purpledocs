@@ -1,8 +1,3 @@
----
-sidebar_position: 10
-title: Settings screen
----
-
 # Settings screen
 
 In top right corner of the app screen there is a gear icon with settings.

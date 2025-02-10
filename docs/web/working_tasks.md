@@ -1,8 +1,3 @@
----
-sidebar_position: 15
-title: Working tasks
----
-
 # Working Tasks
 
 ## Overview

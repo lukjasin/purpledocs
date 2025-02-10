@@ -1,8 +1,3 @@
----
-sidebar_position: 7
-title: Invoicing
----
-
 # Invoicing
 
 ## Overview

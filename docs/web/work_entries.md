@@ -1,8 +1,3 @@
----
-sidebar_position: 5
-title: Work entries
----
-
 # Work entries
 
 ## Overview

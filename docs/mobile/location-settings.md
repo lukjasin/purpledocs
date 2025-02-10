@@ -1,8 +1,3 @@
----
-sidebar_position: 3
-title: Location settings
----
-
 # Location settings
 
 The app requires constant access to location services on both, Android and iOS, to work correctly also in the background and when the device is locked (sleep mode).

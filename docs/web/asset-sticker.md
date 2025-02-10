@@ -1,8 +1,3 @@
----
-sidebar_position: 10
-title: Asset sticker
----
-
 # Asset sticker
 
 ## Overview

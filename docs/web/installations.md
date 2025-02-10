@@ -1,8 +1,3 @@
----
-sidebar_position: 2
-title: Installations
----
-
 # Installations
 
 ## Overview

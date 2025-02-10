@@ -1,8 +1,3 @@
----
-sidebar_position: 1
-title: App installation
----
-
 # Installation
 
 Below is the installation process of the Purple App mobile application for devices running Android and iPhones with iOS.

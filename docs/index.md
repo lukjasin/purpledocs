@@ -1,9 +1,3 @@
----
-slug: /
-sidebar_position: 1
-title: Introduction
----
-
 # Introduction
 
 **Welcome to the PurpleApp User and Administration Guide!**

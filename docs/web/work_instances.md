@@ -1,8 +1,3 @@
----
-sidebar_position: 6
-title: Work instances
----
-
 # Work instances
 
 ## Overview
